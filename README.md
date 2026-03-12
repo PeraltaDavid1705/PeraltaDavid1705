@@ -9,7 +9,6 @@
 ## Tecnologías
 
 - Python
-- C++
 - JavaScript
 - HTML / CSS
 
