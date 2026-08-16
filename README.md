@@ -21,13 +21,6 @@
 
 ---
 
-## Herramientas de Ciberseguridad
-
-- Wireshark
-- OWASP Top 10
-
----
-
 ## Certificaciones
 
 - JavaScript Essentials 1 – Cisco Networking Academy / Universidad Popular del Cesar
@@ -57,10 +50,7 @@
 - Python
 - Git y GitHub
 - Administración de servidores Linux
-- Conceptos de ciberseguridad
-- Wireshark
-- OWASP Top 10
-
+  
 ---
 
 ## Objetivo
